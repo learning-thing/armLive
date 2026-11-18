@@ -1,0 +1,6 @@
+[default_config]
+assembler = "nasm"
+instruction_set = "arm"
+
+[default_config.opts]
+compiler = "armasm"
