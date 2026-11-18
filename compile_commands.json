@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/benji/Dokumente/Programme/armLIve/build",
+  "command": "/usr/bin/c++ -I/home/benji/Dokumente/Programme/armLIve/src/State -I/home/benji/Dokumente/Programme/armLIve/src/Instruction -I/home/benji/Dokumente/Programme/armLIve/src -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/benji/Dokumente/Programme/armLIve/src/main.cpp",
+  "file": "/home/benji/Dokumente/Programme/armLIve/src/main.cpp",
+  "output": "/home/benji/Dokumente/Programme/armLIve/build/CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/benji/Dokumente/Programme/armLIve/build",
+  "command": "/usr/bin/c++ -I/home/benji/Dokumente/Programme/armLIve/src/State -I/home/benji/Dokumente/Programme/armLIve/src/Instruction -I/home/benji/Dokumente/Programme/armLIve/src -g -o CMakeFiles/main.dir/src/State/ArmState.cpp.o -c /home/benji/Dokumente/Programme/armLIve/src/State/ArmState.cpp",
+  "file": "/home/benji/Dokumente/Programme/armLIve/src/State/ArmState.cpp",
+  "output": "/home/benji/Dokumente/Programme/armLIve/build/CMakeFiles/main.dir/src/State/ArmState.cpp.o"
+}
+]

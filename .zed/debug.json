@@ -1,0 +1,17 @@
+[
+	{
+		"label": "Debug",
+		"build": {
+			"command": "ninja",
+			"args": ["-j10"],
+			"cwd": "$ZED_WORKTREE_ROOT/build"
+		},
+		"cwd":     "$ZED_WORKTREE_ROOT/build",
+		"program": "$ZED_WORKTREE_ROOT/build/main",
+		"args": [
+			"$ZED_WORKTREE_ROOT/build/testScript.asm"
+		],
+		"request": "launch",
+		"adapter": "CodeLLDB"
+	},
+]

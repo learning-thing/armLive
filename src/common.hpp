@@ -1,0 +1,14 @@
+#pragma once
+#include <cstdint>
+#include <iostream>
+#include <string>
+#include <cstring>
+#include <vector>
+#include <map>
+#include <unordered_map>
+#include <fstream>
+
+
+typedef uint32_t u32;
+typedef uint16_t u16;
+typedef uint8_t u8;

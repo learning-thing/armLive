@@ -1,0 +1,9 @@
+
+Checks: ""-*,bugprone-*"
+CheckOptions:
+    - key: bugprone-argument-comment.StrictMode
+      value: 1
+
+FormatStyle: "google"
+HeaderFilterRegex: "UI"
+
